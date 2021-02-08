@@ -18,4 +18,4 @@ def scraper(url, text):
 		print("{} Coming soon".format(text))
 
 scraper("https://www.nike.com/in/t/air-force-1-07-se-shoe-G0dtLG/CV8482-600", "Red Nike Shoe")
-scraper("https://www.nike.com/in/t/air-force-1-07-se-shoe-G0dtLG/CV8482-100", "White Nike Shoe")
+# scraper("https://www.nike.com/in/t/air-force-1-07-se-shoe-G0dtLG/CV8482-100", "White Nike Shoe")
